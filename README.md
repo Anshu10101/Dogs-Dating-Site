@@ -1,2 +1,1 @@
-# Dogs-Dating-Site
-Used Bootstrap
+TinDog Starting Files
